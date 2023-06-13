@@ -1,1 +1,1 @@
-# Mcdonalds_market_segemntation
+# Mcdonalds_market_segmentation
